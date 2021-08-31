@@ -12,9 +12,6 @@ namespace TestiVskoodi
             //Helloo it is I 
             //SuperTux
             //weeeeee
-
-
-
             // Heii hei Moikkuu moikka
             // Samalla rivillä ei voi olla samanaikaisia muutoksia tai niitä ei voi yhdistää. 
             // Tämä aiheuttaa konfliktin, jos 2 eriä yritetään muuttaa yhdeksi github ei ymmärrä.
